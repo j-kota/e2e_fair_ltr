@@ -1,5 +1,5 @@
 
-#End-to-End Learning for Fair Ranking Systems
+# End-to-End Learning for Fair Ranking Systems
 
 Learning to rank subject to constraints on group exposure, using differentiable optimization modules in predict-and-optimize fashion.
 
