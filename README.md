@@ -7,7 +7,7 @@ See the accompanying paper in WWW '22: <https://arxiv.org/abs/2111.10723>
 
 Required datasets for this project can be found by following the instructions on <https://github.com/him229/fultr>
 
-Credit to the original authors Himank Yadav et. al.
+Credit to the original authors Himank Yadav et. al. for the LTR data and several code segments
 
 For an example command to run the main program, see main.sh
 
